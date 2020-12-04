@@ -1,9 +1,9 @@
 function basicTeenager(age) {
-  let a;
+  
 if (age >=13 && age <= 19 ) {
-a = "You are a teenager!"
+return  "You are a teenager!";
 }
-return a
+
 }
 
 function teenager(age) {
